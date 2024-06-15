@@ -1,8 +1,13 @@
 # $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}My Profile}$$
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=eba799&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+José+Henrique;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
 > [!Note]
-> - 🔭 I’m currently working on Software Developer.
+> - 🔭 I’m currently working on Systems Analyst and Developer.
 > - 🌱 I’m currently learning Analysis and Systems Development 
 > - 😄 Pronouns: He/His
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JsHenri&bg_color=0d1117&color=8b008b&line=191970&point=00fa9a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
   <br>
   <h2>
