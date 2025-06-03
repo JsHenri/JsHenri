@@ -1,5 +1,3 @@
-# $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}My Profile}$$
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=eba799&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+José+Henrique;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
 > [!Note]
 > - 🔭 I’m currently working on Systems Analyst and Developer.
@@ -23,7 +21,7 @@
   </h3>
 </div><br>
   
-# ${\color{red}Contact \space \color{orange}Me}$
+# Contact Me
 <div>
   <a href="https://www.linkedin.com/in/josé-henrique-vieira-b4855227a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="hjosehenrique6756@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
